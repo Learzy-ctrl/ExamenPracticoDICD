@@ -59,7 +59,7 @@ public class Principal {
 		    }
 		}
 
-		System.out.println("\nLa serie con más temporadas es: " + mayorS.getTitulo());
+		System.out.println("\nLa serie con más temporadas es: " + mayorS);
 		
 		
 		//Busca el videojuego con mas horas del arreglo
@@ -71,7 +71,7 @@ public class Principal {
 		    }
 		}
 		
-		System.out.println("\nEl juego con mas horas es: " + mayorV.getTitulo());
+		System.out.println("\nEl juego con mas horas es: " + mayorV);
 		
 		
 	}
